@@ -156,3 +156,97 @@ font-family: 'Poppins', sans-serif; */
     font-weight: 400;
     font-family: 'DM Sans', sans-serif;
   }
+
+  /* project page */
+
+  .project_wrapper{
+    margin:0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .projects-title{
+    font-size: 60px;
+    font-weight: 700;
+    color:#5C62EC;
+    font-family: 'DM Sans', sans-serif;
+    margin-top: 70px;
+  }
+
+  .project_description{
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'DM Sans', sans-serif;
+    color:#171718;
+    margin-top: 40px ;
+    margin-bottom: 30px;
+  }
+
+  .project_button{
+    display: flex;
+    align-items: center;
+    gap:10px;
+    border: 1px solid #000000;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-weight: 500px;
+    color: #000000;
+    font-family: 'DM Sans', sans-serif;
+  }
+
+  .main{
+    Width:571px;
+    Height:383px;
+    margin-top: 135px;
+    margin-left: 314px;
+    margin-bottom: 362px;
+  }
+
+  .skille_title{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 700;
+    color:#5C62EC;
+    font-family: 'DM Sans', sans-serif;
+    margin-top: 70px;
+    margin-bottom: 40px;
+  }
+
+  .skille_wrapper{
+  }
+
+ 
+
+  .item_title{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 40px;
+    font-family: 'DM Sans', sans-serif;
+    color: #171718;
+
+  }
+
+  .item_desc{
+    text-align: center ;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+    padding-top: 20px;
+    padding-bottom: 40px;
+  }
+
+  .item_descreption{
+    text-align: center ;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+    padding-top: 20px;
+    color:#5C62EC;
+    position: absolute;
+    /* top:20px; */
+    right: 546px;
+    left: 546px;
+  }
+    
